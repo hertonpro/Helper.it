@@ -1,25 +1,4 @@
-
-
-
-
-
-
-
-
-
-888    888          888                            8888888 888         
-888    888          888                              888   888         
-888    888          888                              888   888         
-8888888888  .d88b.  888 88888b.   .d88b.  888d888    888   888888      
-888    888 d8P  Y8b 888 888 "88b d8P  Y8b 888P"      888   888         
-888    888 88888888 888 888  888 88888888 888        888   888         
-888    888 Y8b.     888 888 d88P Y8b.     888  d8b   888   Y88b.       
-888    888  "Y8888  888 88888P"   "Y8888  888  Y8P 8888888  "Y888      
-                        888                                            
-                        888                                            
-                        888                                            
-
-
+<p align="center"><img src="https://screenshotscdn.firefoxusercontent.com/images/2317f4b0-1016-43ff-8ecb-e62cbf28d587.png"></p>
 
 
 Helper.it une plate-forme contenant des ressources pour les informaticiens.
