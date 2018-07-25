@@ -1,3 +1,45 @@
+
+
+
+
+
+
+
+
+
+888    888          888                            8888888 888         
+888    888          888                              888   888         
+888    888          888                              888   888         
+8888888888  .d88b.  888 88888b.   .d88b.  888d888    888   888888      
+888    888 d8P  Y8b 888 888 "88b d8P  Y8b 888P"      888   888         
+888    888 88888888 888 888  888 88888888 888        888   888         
+888    888 Y8b.     888 888 d88P Y8b.     888  d8b   888   Y88b.       
+888    888  "Y8888  888 88888P"   "Y8888  888  Y8P 8888888  "Y888      
+                        888                                            
+                        888                                            
+                        888                                            
+
+
+
+
+Helper.it une plate-forme contenant des ressources pour les informaticiens.
+Cette outille alors permet de télécharger des logiciels sur un réseau localet 
+donc plus rapidement que sur Internet.
+Elle met aussi en disponibilité des documentations pour les programmeurs et des tutoriels informatiques.
+
+Helper.it est développé en Php 7.2, MySql
+
+Ce projet est initiatier par Herton.pro_____
+en collaboration avec Kwanza-tecnologie et le programme l’apprentie. 
+
+
+			Cordialement 
+		      Alva-Ntyo  MIHIGO
+		       project-manager 
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
