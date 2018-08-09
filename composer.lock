@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ebc276e7a8db3464d825539551cd28f1",
+    "content-hash": "152fcc61153f8fcfb06436ea9ed42073",
     "packages": [
         {
             "name": "bamboohr/phpcs",

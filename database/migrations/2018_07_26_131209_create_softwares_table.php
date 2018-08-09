@@ -18,6 +18,9 @@ class CreateSoftwaresTable extends Migration
             $table->string('name');
             $table->string('description');
             $table->string('vesion');
+            $table->integer('category_id')->unsigned();
+
+            $table->foreign('category_id')->references('id')->on('categories');
 
             $table->timestamps();
         });
