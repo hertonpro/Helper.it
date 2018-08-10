@@ -21,4 +21,4 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 
 Route::view('/upload',"upload_software");
-Route::post('/store',"UserController@store");
+Route::post('/store',"UploadController@store");
