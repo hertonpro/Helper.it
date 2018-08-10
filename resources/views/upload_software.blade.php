@@ -64,13 +64,22 @@ body {
                   <h1 class="h3 mb-3 font-weight-normal">Helper.It</h1>
                   
                   <label  class="sr-only">Titre:</label>
-                  <input type="text" id="inputEmail" class="form-control" placeholder="Titre" required autofocus>
+                  <input type="text" id="inputEmail" name="titre" class="form-control" placeholder="Titre" required autofocus>
                   <label type="text" class="sr-only" >Version:</label>
-                  <input type="text" id="inputPassword" class="form-control" placeholder="Version" required>
+                  <input type="text" id="inputPassword" name="version" class="form-control" placeholder="Version" required>
                   <label type="text" class="sr-only">Description:</label>
-                  <input type="text" id="inputPassword" class="form-control" placeholder="Description" required>
+                  <input type="text" id="inputPassword" name="description" class="form-control" placeholder="Description" required>
                   <input type="hidden" name="_token" value="{{csrf_token()}}">
                   <input type="file" name="image" id="inputPassword" method='post' action="URL::to('/store')" entype="multipart/form-data">
+                 
+                  <tr>
+                        <td>Category</td><br>
+                        <td>
+                        <select name="city_name">
+                        <option value="bbsr">Bhubaneswar</option>
+                        <option value="cuttack">Cuttack</option>
+                        </select></td>
+                        </tr>
                   <div class="checkbox mb-3">
                   
                   </div>
