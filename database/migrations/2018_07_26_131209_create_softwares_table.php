@@ -15,12 +15,16 @@ class CreateSoftwaresTable extends Migration
     {
         Schema::create('softwares', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('name');
+            $table->string('titre');
             $table->string('description');
+<<<<<<< HEAD
             $table->string('vesion');
             $table->integer('category_id')->unsigned();
 
             $table->foreign('category_id')->references('id')->on('categories');
+=======
+            $table->string('version');
+>>>>>>> f397c1d92b74e3d6bd0aee5aba3dd989c6ceb4de
 
             $table->timestamps();
         });
